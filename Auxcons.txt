@@ -1,0 +1,11 @@
+
+//primary constrctor
+class salary(penalty:Int){
+
+//auxillary constructor
+def this(){
+this(0)
+}
+def this(penal:Int){
+this(penal,0)
+}
